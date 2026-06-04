@@ -8,7 +8,7 @@
 
 ## 🇰🇷 한국 법·규제 오픈 데이터 (Git-native)
 
-법령·판례·규칙을 Markdown + Git 으로 관리합니다. 각 개정·선고가 **실제 일자를 가진 commit** 이라
+법령·판례·규칙·행정구역을 Markdown + Git 으로 관리합니다. 각 개정·선고가 **실제 일자를 가진 commit** 이라
 시점별 추적·diff·인용·RAG 에 그대로 쓸 수 있습니다.
 
 | 저장소 | 내용 |
@@ -20,6 +20,7 @@
 | [constitution-kr](https://github.com/wellsa-ai/constitution-kr) | 헌법재판소 결정례 |
 | [localrule-kr](https://github.com/wellsa-ai/localrule-kr) | 자치법규(조례·규칙) |
 | [treaty-kr](https://github.com/wellsa-ai/treaty-kr) | 대한민국 체결 조약 |
+| [admincode-kr](https://github.com/wellsa-ai/admincode-kr) | 행정표준코드 법정동 11,036개 · 분기 자동 갱신 |
 
 ## 🔒 프라이버시 우선 AI
 
