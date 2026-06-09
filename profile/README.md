@@ -27,10 +27,11 @@
 | 저장소 | 내용 |
 |---|---|
 | [miniwiki](https://github.com/wellsa-ai/miniwiki) | 100% 오프라인 · E2E 암호화 · 온디바이스 AI 개인 위키 |
+| [MemMini](https://github.com/wellsa-ai/Memmini) | AI 에이전트용 L0/L1/L2 계층형 메모리 라이브러리 |
 
 ## 다가올 것
 
-self-hosted AI 워크스페이스 · 문서 AI · 코드 리뷰 도구 등을 검증된 순서로 순차 공개합니다.
+self-hosted AI 워크스페이스 · 문서 AI · 데이터 자동화 도구를 검증된 순서로 순차 공개합니다.
 
 ---
 
